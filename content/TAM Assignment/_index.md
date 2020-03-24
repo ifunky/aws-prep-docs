@@ -5,8 +5,6 @@ weight = 5
 chapter = true
 +++
 
-### Chapter X
+# Dan's TAM Assignment
 
-# Some Chapter title
-
-Lorem Ipsum.
+Please browse though the contents on the left

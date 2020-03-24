@@ -40,3 +40,5 @@ Additionally the solution provides:
 This documentation is automated with the `AWS Amplify` framework :-)
 
 AWS Well Archcitected Framework: Operational Excellence -> Annotated Documentation
+
+Source can be seen here: https://github.com/ifunky/aws-prep-docs
