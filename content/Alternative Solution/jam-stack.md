@@ -1,7 +1,7 @@
 ---
 title: "JAM Stack"
 date: 2020-03-24T09:14:50Z
-draft: false
+draft: true
 ---
 
 ***JAMstack** stands for JavaScript, APIs, and Markup. The term was coined by Mathias Biilmann to describe a modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. The static nature of a **JAMstack** app makes scaling easy, and causes little to no dev-ops overhead.*
@@ -23,7 +23,7 @@ The concept behind this site is to create a complete serverless documentation we
 **Why**
 
 - Completely take advantage of the AWS shared responsibility model 
-- No need to worry about instance size or scalling
+- No need to worry about instance size or scaling
 - Superfast performance due to running behind a CDN
 - Very cheap to buyild and run
 
